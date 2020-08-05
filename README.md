@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**hmarques98/hmarques98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Henrique Marques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Opaaa 👋
+Sou apaixonado por tecnologia e resolver problemas utilizando-a
+
+Sou um Developer Jr.  :computer:
+
+ :rocket:  &nbsp; Estou buscando minha primeira oportunidade de trabalho na área;
+ 
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ 
+ <br/> :computer: &nbsp; Me dou bem com: ReactJS, React Native & Typescript
+ 
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e esportes;
+ 

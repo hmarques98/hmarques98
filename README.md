@@ -5,7 +5,7 @@
 ## Tudo bem com voce?  👋
  
  :question: &nbsp; Estou estundando ReactJs, React Native e Typescript. 
-  <br/> -- Estudando NodeJs + Express + Banco Dados nas horas vagas
+  <br/> :crystal_ball: &nbsp; Estudando NodeJs + Express + Banco Dados nas horas vagas
  <br/>:heartpulse: &nbsp; Sou fascinado pela tecnologia e resolver problemas utilizando-a é incrivel. Isso me dar poderes :scream:
  <br/>:computer: &nbsp; Sou um Developer Jr. em evolução :airplane:	
  <br/>:rocket:  &nbsp; Estou buscando minha primeira oportunidade de trabalho na área;

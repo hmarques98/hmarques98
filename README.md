@@ -4,7 +4,7 @@
 
 ## Tudo bem com voce?  👋
  
- :question: &nbsp; Estou estundando ReactJs, React Native e Typescript.  
+ 🧠 &nbsp; Estou estundando ReactJs, React Native e Typescript.  
  
   <br/> :crystal_ball: &nbsp; Estudando NodeJs + Express + Banco Dados nas horas vagas
   
@@ -22,3 +22,6 @@
  
  <br/> :soccer: &nbsp; Gosto de esportes e me manter atualizado com o mundo. 
  
+
+Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-HenriqueMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hmarques98/)](https://www.linkedin.com/in/hmarques98/) 
+[![Gmail Badge](https://img.shields.io/badge/-MarquesProgrammer-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marquesprogrammer@hotmail.com)](mailto:marquesprogrammer@hotmail.com)

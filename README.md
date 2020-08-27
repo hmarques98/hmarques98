@@ -4,7 +4,7 @@
 
 ## Tudo bem com voce?  👋
  
- 🧠 &nbsp; Estou estundando ReactJs, React Native e Typescript;
+ 🧠 &nbsp; Praticando ReactJs, React Native e Typescript;
  
   <br/> :crystal_ball: &nbsp; Estudando NodeJs + Express + Banco Dados nas horas vagas;
   

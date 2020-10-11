@@ -32,7 +32,7 @@ Com foco em Front-end eu estou praticando ReactJs, React Native com Typescript d
 <a href="https://www.instagram.com/hmarques98/" target="_blank"><img  align="center" src="https://www.flaticon.com/svg/static/icons/svg/168/168941.svg" alt="hmarques98" height="60" width="60" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/jhmarques098" target="_blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/168/168930.svg" alt="Henrique Marques" height="60" width="60" /></a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hmarques98/" target="_blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/168/168944.svg" alt="Henrique Marques" height="60" width="60" /></a> &nbsp;&nbsp;
-  <a href="https://wa.link/6aciyc" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/168/168945.svg" alt="Henrique Marques" height="60" width="60" /></a> &nbsp;&nbsp;
+  <a href="https://wa.link/6aciyc" target="_blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/168/168945.svg" alt="Henrique Marques" height="60" width="60" /></a> &nbsp;&nbsp;
   <a href="mailto:marquesprogrammer@hotmail.com" target="_blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1362/1362982.svg" alt="Henrique Marques" height="60" width="60" /></a> &nbsp;&nbsp;
 </p>
 

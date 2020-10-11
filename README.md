@@ -2,8 +2,6 @@
 
 #### Muito prazer, me chamo Henrique Marques
 
-[![Linkedin Badge](https://img.shields.io/badge/-HenriqueMarques-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hmarques98/)](https://www.linkedin.com/in/hmarques98/) [![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white&link=mailto:marquesprogrammer@hotmail.com)](mailto:marquesprogrammer@hotmail.com)
-
 ---
 
 Estou na área de programação desde o inicio de 2020 onde estou me dedicando a me aperfeiçoar na stack usadas com JavaScript.

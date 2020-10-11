@@ -4,9 +4,9 @@
 
 ---
 
-Estou na área de programação desde o inicio de 2020 onde estou me dedicando a me aperfeiçoar na stack usadas com JavaScript.
+Estou na área de programação desde o inicio de 2020 onde estou me dedicando a me aperfeiçoar na stack usada com JavaScript.
 
-Com foco em Front-end eu estou praticando ReactJs, React Native com Typescript diariamente a fim de melhorar minhas skills com essas ferramentas.
+Com foco em Front-end eu estou praticando ReactJs e React Native com Typescript diariamente a fim de melhorar minhas skills com essas ferramentas.
 
 ---
 

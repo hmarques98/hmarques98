@@ -1,16 +1,20 @@
-## Fala pessoal! Tudo bem com vocês?
+## Fala, pessoal!!!
 
 #### Muito prazer, me chamo Henrique Marques
 
 ---
 
-Estou na área de programação desde o inicio de 2020 onde estou me dedicando a me aperfeiçoar na stack usada com JavaScript.
+Sou um Desenvolvedor de Software que desde 2020 vem se dedicando a resolver problemas utilizando a programação como ferramenta.
 
-Com foco em Front-end eu estou praticando ReactJs e React Native com Typescript diariamente a fim de melhorar minhas skills com essas ferramentas.
+Com maior foco na stack Javascript, tenho constatamente usado React, React Native e outras bibliotecas que fazem parte dessa linguagem apaixonante. 
+
+Tenho curiosidade e um pouco de conhecimento no Framework Flutter para desenvolvimento de aplicações mobile utilizando a linguagem Dart.
+
+Em 2021 estou buscando aprender e aprimorar sobre CI/CD, testes e algumas automoções para agilizar o processo de desenvolvimento cada vez mais ágil. 
 
 ---
 
-#### O que uso e estudo?
+#### O que ando estudando e praticando?
 
 <br/>
 <p align="left">
@@ -26,7 +30,7 @@ Com foco em Front-end eu estou praticando ReactJs e React Native com Typescript 
 
 ---
 
-#### Bora se conectar?
+#### Uma conexão sempre nos faz crescer, né?!
 
   <p align="left">
 <a href="https://www.instagram.com/hmarques98/" target="_blank"><img  align="center" src="https://www.flaticon.com/svg/static/icons/svg/168/168941.svg" alt="hmarques98" height="60" width="60" /></a> &nbsp;&nbsp;

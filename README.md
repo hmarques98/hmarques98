@@ -4,13 +4,16 @@
 
 ---
 
-Sou um Desenvolvedor de Software que desde 2020 vem se dedicando a resolver problemas utilizando a programação como ferramenta.
+Desenvolvendo aplicações mobile cross-platform.
 
-Com maior foco na stack Javascript, tenho constatamente usado React, React Native e outras bibliotecas que fazem parte dessa linguagem apaixonante. 
+Experiência em React Native usando Javascript para construção de aplicações Mobile e também Typescript <3 que ajuda muito no desenvolvimento. Atualmente implementando testes automatizados nos projetos pessoais (Unitários e E2E) usando Jest e Detox. Criação de hooks personalizados e gerenciamento de estados com Redux-Toolkit.
 
-Tenho curiosidade e um pouco de conhecimento no Framework Flutter para desenvolvimento de aplicações mobile utilizando a linguagem Dart.
+Também tenho conhecimento criando aplicativos usando Flutter e gosto de usar o package Getx para gerenciamento de estados e rotas.
 
-Em 2021 estou buscando aprender e aprimorar sobre CI/CD, testes e algumas automoções para agilizar o processo de desenvolvimento cada vez mais ágil. 
+Conhecimento no Framework Express para construção de APIS
+Experiência com cloud functions e outras ferramentas da Google Cloud Platform
+Experiência em ferramentas de UI/UX como Figma e AdobeXd
+Experiência em envio das aplicações para Play Store e App Store 
 
 ---
 

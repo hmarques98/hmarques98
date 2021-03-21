@@ -17,21 +17,7 @@ Experiência em envio das aplicações para Play Store e App Store
 
 ---
 
-#### O que ando estudando e praticando?
 
-<br/>
-<p align="left">
-  <code><img src="https://user-images.githubusercontent.com/51785898/91357834-3eb8df00-e7c8-11ea-9936-0ce666ac2a11.png" alt="JS" height="60" width="60""/></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/51785898/91357843-411b3900-e7c8-11ea-8161-3e8191a6cde2.png" alt="React.js" width="60" height="60" /></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/51785898/91357845-424c6600-e7c8-11ea-9457-53c06cf3b6ed.png" alt="React-Native" width="60" height="60" /></code>&nbsp;
-<code><img src="https://user-images.githubusercontent.com/51785898/91358426-3319e800-e7c9-11ea-9df0-b5a207cecfce.png" alt="Typescript" height="60" width="60""/></code>&nbsp;
-    <code><img src="https://user-images.githubusercontent.com/51785898/91357850-44162980-e7c8-11ea-966c-a7ebaba08ba3.png" alt="Node.js" height="60" width="60""/></code>
-    &nbsp;
-      <code><img src="https://user-images.githubusercontent.com/51785898/91358353-0cf44800-e7c9-11ea-9a54-0a988aa2837c.png" alt="Github" height="60" width="60""/></code>&nbsp;
-  <code><img src="https://camo.githubusercontent.com/11ab33aade76b32789dfac7a4c04e051924fb22d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667" alt="Linux OS" height="60" width="60"/></code>
-   </p>
-
----
 
 #### Uma conexão sempre nos faz crescer, né?!
 

@@ -1,6 +1,6 @@
 ### Hi, there 👋
 
-Hi, I'm Henrique and I'm a mobile app developer.
+Hi, I'm Henrique and I'm a React Native Mobile Developer.
 
 ---
 

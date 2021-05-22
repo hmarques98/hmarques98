@@ -6,16 +6,17 @@ Hi, I'm Henrique and I'm a React Native Mobile Developer.
 
 ### Skills:
 
-JavaScript (ES2020)
-React
-React Native
-HTML5
-CSS3
-NodeJS
-Typescript
-Storybook
-Redux
-Redux-toolkit
+HTML5  
+CSS3  
+JavaScript (ES2020)  
+React  
+React Native  
+Redux  
+Redux-toolkit  
+NodeJS  
+Typescript  
+Storybook  
+
 
 
 

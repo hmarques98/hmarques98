@@ -5,13 +5,18 @@
 HTML5  
 CSS3  
 JavaScript (ES2020)  
-React  
+React
+Context Api
 React Native  
 Redux  
 Redux-toolkit  
 NodeJS  
 Typescript  
 Storybook  
+Jest
+Unit Tests
+RNTL
+
 
 
 

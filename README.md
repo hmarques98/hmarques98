@@ -13,8 +13,8 @@ Redux-toolkit
 NodeJS  
 Typescript  
 Storybook  
-Jest
-Unit Tests
+Jest  
+Unit Tests  
 RNTL
 
 

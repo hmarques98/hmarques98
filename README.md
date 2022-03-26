@@ -1,26 +1,5 @@
 #### Hi, there
 
-### Skills:
-
-HTML5  
-CSS3  
-JavaScript (ES2020)  
-React
-Context Api
-React Native  
-Redux  
-Redux-toolkit  
-NodeJS  
-Typescript  
-Storybook  
-Jest  
-Unit Tests  
-RNTL
-
-
-
-
-
 ### Networks:
 
   <p align="left">

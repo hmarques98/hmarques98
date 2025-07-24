@@ -14,7 +14,7 @@
 
 Mobile engineer from João Pessoa, Brazil 🇧🇷 | 5+ years turning ideas into apps people actually use.
 
-Started with React Native, evolved into native development (Swift/Kotlin), now building [Movuca](https://github.com/hmarques98/movuca) - because finding where to go out tonight shouldn't be this hard.
+Started with React Native, evolved into native development (Swift/Kotlin)
 
 ### 🚀 What I'm up to
 

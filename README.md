@@ -1,5 +1,5 @@
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0052CC&center=true&vCenter=true&width=800&lines=Senior+Mobile+Engineer;React+Native+%2B+Native+Development;Building+Movuca+%F0%9F%8E%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0052CC&center=true&vCenter=true&width=800&lines=Senior+Mobile+Engineer;React+Native+%2B+Native+Development+%F0%9F%8E%89)](https://git.io/typing-svg)
 
 <div align="center">
   
@@ -19,19 +19,16 @@ Started with React Native, evolved into native development (Swift/Kotlin)
 ### 🚀 What I'm up to
 
 ```typescript
-const currentStatus = {
-  building: "Movuca - Nightlife discovery app",
-  learning: "Making React Native feel truly native", 
-  experimenting: "React Native Skia for 60fps animations",
-  stack: ["React Native 0.79", "Swift", "Kotlin", "GraphQL", "Go"]
+const skills = {
+  stack: ["Javascript/Typescript", "React Native", "Swift", "Kotlin", "GraphQL", "NodeJS", "Go", "Figma"]
 };
 ```
 
 ### 💼 Journey so far
 
-- **Now**: Building my own product (finally!) - handling everything from Figma to deployment
-- **2022-2025**: Led native migrations at Meili, built SDKs used by 50+ companies
-- **2021-2022**: Optimized Localiza's app for 2M+ users (40% faster, 95% crash-free)
+- **Now**: Building some nice side projects - handling everything from Figma to deployment
+- **2022-2025**: Led native migrations at Meili, built SDKs used by hundred companies across the globe
+- **2021-2022**: Worked to Localiza, one of the largest car rental companies in Latin America 
 - **2020-2021**: Shipped my first production apps, discovered my passion for mobile
 
 ### 🛠️ Tech I actually use
